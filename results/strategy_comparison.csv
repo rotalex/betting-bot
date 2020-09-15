@@ -1,0 +1,2 @@
+,agency,strategy,start_date,num_bets,is_out_of_money,total_won,total_spent,profit,profit_per_bet,avg_odd,spent_sums,balances,results,sum_to_recover,sum_to_recover_exponitially_decreased,steps_on_red
+0,B365,MartingaleStrategy0.0001,2002-10-08,2270,True,565.573531345382,672.7377670775783,-107.16423573219629,-0.04720889362260029,2.5295726872246695,[ 0.    0.    0.   ...  0.    0.   30.99],[100.   100.   100.   ...  23.83  23.83  -7.16],[  0.    0.    0.  ... -69.1 -69.1 -69.2],[ 0.    0.    0.   ... 55.34 55.34 77.48],[],[0 0 0 ... 5 5 6]
